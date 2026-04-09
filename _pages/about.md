@@ -28,3 +28,22 @@ latest_posts:
 ---
 
 I am a PhD student
+
+
+<div style="display: flex; justify-content: space-around; text-align: center; margin-top: 40px; flex-wrap: wrap;">
+    
+    <div style="margin: 10px; min-width: 150px;">
+        <a href="https://www.unimelb.edu.au/" target="_blank">
+            <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 80px; object-fit: contain; margin-bottom: 10px; transition: transform 0.2s;">
+        </a>
+        <div style="font-weight: bold; font-size: 1.1em; color: var(--global-text-color);">MSc</div>
+        <div style="color: var(--global-text-color-light); font-size: 0.9em;">20XX - 20XX</div> </div>
+
+    <div style="margin: 10px; min-width: 150px;">
+        <a href="https://www.tum.de/en/" target="_blank">
+            <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 80px; object-fit: contain; margin-bottom: 10px; transition: transform 0.2s;">
+        </a>
+        <div style="font-weight: bold; font-size: 1.1em; color: var(--global-text-color);">PhD</div>
+        <div style="color: var(--global-text-color-light); font-size: 0.9em;">20XX - Present</div> </div>
+
+</div>
