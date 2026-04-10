@@ -37,7 +37,7 @@ I am a PhD student
             <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 65px; margin-bottom: 10px;">
         </a>
         <div style="font-weight: bold; font-size: 1.1em;">PhD</div>
-        <div style="font-size: 0.9em;">20XX - Present</div>
+        <div style="font-size: 0.9em;">2025 - Present</div>
     </div>
 
 <div style="margin: 10px; min-width: 150px;">
@@ -45,7 +45,7 @@ I am a PhD student
         <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 80px; margin-bottom: 10px;">
     </a>
     <div style="font-weight: bold; font-size: 1.1em;">MSc</div>
-    <div style="font-size: 0.9em;">20XX - 20XX</div>
+    <div style="font-size: 0.9em;">2023 - 2025</div>
 </div>
 
     <div style="margin: 10px; min-width: 150px;">
@@ -53,7 +53,7 @@ I am a PhD student
             <img src="/assets/img/ccut_logo.png" alt="CCUT" style="height: 65px; margin-bottom: 10px;">
         </a>
         <div style="font-weight: bold; font-size: 1.1em;">BSc</div>
-        <div style="font-size: 0.9em;">20XX - 20XX</div>
+        <div style="font-size: 0.9em;">2018 - 2022</div>
     </div>
 
 </div>
