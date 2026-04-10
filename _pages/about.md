@@ -40,13 +40,13 @@ I am a PhD student
         <div style="font-size: 0.9em;">20XX - Present</div>
     </div>
 
-    <div style="margin: 10px; min-width: 150px;">
-        <a href="https://www.unimelb.edu.au/" target="_blank">
-            <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 65px; margin-bottom: 10px;">
-        </a>
-        <div style="font-weight: bold; font-size: 1.1em;">MSc</div>
-        <div style="font-size: 0.9em;">20XX - 20XX</div>
-    </div>
+<div style="margin: 10px; min-width: 150px;">
+    <a href="https://www.unimelb.edu.au/" target="_blank">
+        <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 85px; margin-bottom: 10px;">
+    </a>
+    <div style="font-weight: bold; font-size: 1.1em;">MSc</div>
+    <div style="font-size: 0.9em;">20XX - 20XX</div>
+</div>
 
     <div style="margin: 10px; min-width: 150px;">
         <a href="https://www.ccut.edu.cn/" target="_blank">
