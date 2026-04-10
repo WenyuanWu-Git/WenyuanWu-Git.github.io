@@ -34,7 +34,7 @@ I am a PhD student
     
     <div style="margin: 10px; min-width: 150px;">
         <a href="https://www.tum.de/en/" target="_blank">
-            <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 45px; object-fit: contain; margin-bottom: 10px;">
+            <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 80px; object-fit: contain; margin-bottom: 10px;">
         </a>
         <div style="font-weight: bold; font-size: 1.1em;">PhD</div>
         <div style="font-size: 0.9em;">20XX - Present</div>
