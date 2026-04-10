@@ -30,27 +30,30 @@ latest_posts:
 I am a PhD student
 
 
-<div style="display: flex; justify-content: space-around; text-align: center; margin-top: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 40px; flex-wrap: wrap;">
     
     <div style="margin: 10px; min-width: 150px;">
         <a href="https://www.tum.de/en/" target="_blank">
-            <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 80px; object-fit: contain; margin-bottom: 10px; transition: transform 0.2s;">
+            <img src="/assets/img/tum_logo.png" alt="TUM" style="height: 45px; object-fit: contain; margin-bottom: 10px;">
         </a>
-        <div style="font-weight: bold; font-size: 1.1em; color: var(--global-text-color);">PhD</div>
-        <div style="color: var(--global-text-color-light); font-size: 0.9em;">20XX - Present</div> </div>
+        <div style="font-weight: bold; font-size: 1.1em;">PhD</div>
+        <div style="font-size: 0.9em;">20XX - Present</div>
+    </div>
 
     <div style="margin: 10px; min-width: 150px;">
         <a href="https://www.unimelb.edu.au/" target="_blank">
-            <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 90px; object-fit: contain; margin-bottom: 10px; transition: transform 0.2s;">
+            <img src="/assets/img/unimelb_logo.png" alt="Unimelb" style="height: 75px; object-fit: contain; margin-bottom: 10px;">
         </a>
-        <div style="font-weight: bold; font-size: 1.1em; color: var(--global-text-color);">MSc</div>
-        <div style="color: var(--global-text-color-light); font-size: 0.9em;">20XX - 20XX</div> </div>
+        <div style="font-weight: bold; font-size: 1.1em;">MSc</div>
+        <div style="font-size: 0.9em;">20XX - 20XX</div>
+    </div>
 
     <div style="margin: 10px; min-width: 150px;">
         <a href="https://www.ccut.edu.cn/" target="_blank">
-            <img src="/assets/img/ccut_logo.png" alt="CCUT" style="height: 90px; object-fit: contain; margin-bottom: 10px; transition: transform 0.2s;">
+            <img src="/assets/img/ccut_logo.png" alt="CCUT" style="height: 85px; object-fit: contain; margin-bottom: 10px;">
         </a>
-        <div style="font-weight: bold; font-size: 1.1em; color: var(--global-text-color);">BSc</div>
-        <div style="color: var(--global-text-color-light); font-size: 0.9em;">20XX - 20XX</div> </div>
+        <div style="font-weight: bold; font-size: 1.1em;">BSc</div>
+        <div style="font-size: 0.9em;">20XX - 20XX</div>
+    </div>
 
 </div>
